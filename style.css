@@ -1,0 +1,17 @@
+.jose {
+	color: #123456;
+	background-color:#abcdef;
+	width:100%;
+	padding:50px;
+	font-weight: bold;
+}
+body {
+	margin:none;
+	padding:none;
+	background-color:#101010;
+	color:#fff;
+}
+
+.luis {
+	color:#fff000;
+}
